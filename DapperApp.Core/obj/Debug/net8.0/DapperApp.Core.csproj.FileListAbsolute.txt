@@ -1,0 +1,11 @@
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\bin\Debug\net8.0\DapperApp.Core.deps.json
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\bin\Debug\net8.0\DapperApp.Core.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\bin\Debug\net8.0\DapperApp.Core.pdb
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.AssemblyInfoInputs.cache
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.AssemblyInfo.cs
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.csproj.CoreCompileInputs.cache
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\refint\DapperApp.Core.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\DapperApp.Core.pdb
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Core\obj\Debug\net8.0\ref\DapperApp.Core.dll

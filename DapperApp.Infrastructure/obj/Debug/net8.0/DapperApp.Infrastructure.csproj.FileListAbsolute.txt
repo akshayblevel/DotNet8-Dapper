@@ -1,0 +1,15 @@
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.csproj.AssemblyReference.cache
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.AssemblyInfoInputs.cache
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.AssemblyInfo.cs
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.csproj.CoreCompileInputs.cache
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\bin\Debug\net8.0\DapperApp.Infrastructure.deps.json
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\bin\Debug\net8.0\DapperApp.Infrastructure.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\bin\Debug\net8.0\DapperApp.Infrastructure.pdb
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\bin\Debug\net8.0\DapperApp.Core.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\bin\Debug\net8.0\DapperApp.Core.pdb
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.csproj.CopyComplete
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\refint\DapperApp.Infrastructure.dll
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\DapperApp.Infrastructure.pdb
+D:\15-RND\DotNet8-Dapper\DapperApp\DapperApp.Infrastructure\obj\Debug\net8.0\ref\DapperApp.Infrastructure.dll
